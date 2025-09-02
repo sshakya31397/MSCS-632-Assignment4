@@ -24,4 +24,6 @@ It demonstrates the use of **conditionals, loops, and branching** in two differe
    ```bash
    python scheduler.py
 
+### Java
+
    javac Main.java
